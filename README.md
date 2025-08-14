@@ -1,17 +1,40 @@
-## Hi there 👋, welcome to my profile.
+## Hi there 👋, welcome to my profile!  
 
+I’m **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified Azure Database Administrator Associate** with 10+ years of experience designing **scalable ETL pipelines**, building **analytics platforms**, and delivering **regulatory-compliant reporting solutions** for Fortune 500 clients in finance, insurance, and energy sectors.  
 
-<!--
-**sratri6/sratri6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+- 💼 Currently leading **data engineering projects** at WNS Global Services  
+- 🛠 Specializing in **ETL pipeline design**, **SQL performance tuning**, and **cloud-based data solutions** (Azure, AWS)  
+- 📊 Passionate about **turning raw data into actionable business insights**  
+- 🌍 Experienced working onsite in the UK and with globally distributed teams  
+- 📜 **Certifications:** Microsoft Certified: Azure Database Administrator Associate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: (https://www.linkedin.com/in/sukanya-pal-a65623b4/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔹 Tech Stack & Tools  
+**ETL & Data Integration:** SSIS, Ab Initio, Informatica Developer  
+**Databases:** Microsoft SQL Server, Oracle SQL  
+**Programming & Scripting:** SQL, Shell scripting  
+**Cloud Platforms:** Azure, AWS S3 (Scality)  
+**BI & Visualization:** Power BI, Qlik Sense, Tableau  
+**Job Scheduling:** Tivoli, Control-M, Crontab  
+**Collaboration:** Jira, Confluence, GitHub  
+
+---
+
+### 📌 Featured Projects  
+- 📂 **ETL Automation Suite** – Automated regulatory reporting pipelines, reducing processing time by 70%  
+- 📊 **Real-Time Analytics Dashboard** – Qlik Sense dashboard with set analysis for instant decision-making  
+- ⚡ **SQL Performance Optimization** – Reduced query execution time by 60% for large-scale reporting  
+
+---
+
+### 📫 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sukanya-pal-a65623b4/)  
+[![Email](https://img.shields.io/badge/Email-pal.sukanya.26%40gmail.com-red?logo=gmail)](mailto:pal.sukanya.26@gmail.com)  
+
+---
+
+💡 *"Data is not just numbers, it's the story your business needs to hear."*
