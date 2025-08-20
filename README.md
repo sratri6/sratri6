@@ -33,7 +33,7 @@ I’m **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certifi
 
 ### 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sukanya-pal-a65623b4/)  
-[![Email](https://img.shields.io/badge/Email-pal.sukanya.26%40gmail.com-red?logo=gmail)](mailto:pal.sukanya.26@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-sukanya.pal%40outlook.com-red?logo=gmail)](mailto:sukanya.pal@outlook.com)  
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/sukanyapal-6099/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/pal_sukanya_26)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/sratri6/)  
