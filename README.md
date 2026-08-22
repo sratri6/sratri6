@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my profile!  
 
-I’m **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified Azure Database Administrator Associate** with 10+ years of experience designing **scalable ETL pipelines**, building **analytics platforms**, and delivering **regulatory-compliant reporting solutions** for Fortune 500 clients in finance, insurance, and energy sectors.  
+I'm **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified Azure Database Administrator Associate** with 10+ years of experience designing **scalable ETL pipelines**, building **real-time analytics solutions**, and optimizing **cloud-based data infrastructures**. I transform complex data challenges into strategic business value! 🎯
 
 ---
 
@@ -31,12 +31,13 @@ I’m **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certifi
 
 ---
 
-### 📫 Let’s Connect  
+### 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sukanya-pal-a65623b4/)  
 [![Email](https://img.shields.io/badge/Email-sukanya.pal%40outlook.com-red?logo=gmail)](mailto:sukanya.pal@outlook.com)  
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/sukanyapal-6099/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/pal_sukanya_26)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/sratri6/)  
+[![Databricks](https://img.shields.io/badge/Databricks-Profile-red?logo=databricks)](https://dbc-f9e9a908-3abb.cloud.databricks.com/explore/data/Workspace_Flight_Tracker?o=7474652870902859&activeTab=overview)  
 
 ---
 
