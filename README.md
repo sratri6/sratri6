@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my profile!  
 
-I'm **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified Azure Database Administrator Associate** with 10+ years of experience designing **scalable ETL pipelines**, building **real-time analytics solutions**, and optimizing **cloud-based data infrastructures**. I transform complex data challenges into strategic business value! 🎯
+I'm **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified Azure Database Administrator Associate** with 11+ years of experience designing **scalable ETL pipelines**, building **real-time analytics solutions**, and optimizing **cloud-based data infrastructures**. I transform complex data challenges into strategic business value! 🎯
 
 ---
 
