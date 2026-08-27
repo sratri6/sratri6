@@ -9,19 +9,19 @@ I'm **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified
 - 🛠 Specializing in **ETL pipeline design**, **SQL performance tuning**, and **cloud-based data solutions** (Azure, AWS)  
 - 📊 Passionate about **turning raw data into actionable business insights**  
 - 🌍 Experienced working onsite in the UK and with globally distributed teams  
-- 📜 **Certifications:** Microsoft Certified: Azure Database Administrator Associate  
+- 📜 **Certifications:** Microsoft Certified: Azure Database Administrator Associate  - DP-300
 
 ---
 
 ### 🔹 Tech Stack & Tools  
-**ETL & Data Integration:** Microsoft SSIS, Microsoft Fabric, Ab Initio, Snowflake, Databricks
-**Databases:** Microsoft SQL Server, Oracle SQL , T-SQL, KQL 
-**Programming & Scripting:** SQL, PowerShell scripting  
-**Cloud Platforms:** Azure, AWS S3 (Scality) , GCP
-**BI & Visualization:** Power BI, Qlik Sense, Tableau  
-**Job Scheduling:** Tivoli, Control-M, Crontab , Visual Cron 9 
-**Collaboration:** Jira, Confluence, GitHub , CI-CD
-**Data Modeling:** HLD/LLD, Confluence Documentation, Draw.io
+- **ETL & Data Integration:** Microsoft SSIS, Microsoft Fabric, Ab Initio, Snowflake, Databricks
+- **Databases:** Microsoft SQL Server, Oracle SQL , T-SQL, KQL 
+- **Programming & Scripting:** SQL, PowerShell scripting  
+- **Cloud Platforms:** Azure, AWS S3 (Scality) , GCP
+- **BI & Visualization:** Power BI, Qlik Sense, Tableau  
+- **Job Scheduling:** Tivoli, Control-M, Crontab , Visual Cron 9 
+- **Collaboration:** Jira, Confluence, GitHub , CI-CD
+- **Data Modeling:** HLD/LLD, Confluence Documentation, Draw.io
 
 ---
 
