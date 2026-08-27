@@ -14,18 +14,19 @@ I'm **Sukanya Pal** – a 🚀 **Data Engineering Lead** & **Microsoft Certified
 ---
 
 ### 🔹 Tech Stack & Tools  
-**ETL & Data Integration:** SSIS, Ab Initio, Informatica Developer  
-**Databases:** Microsoft SQL Server, Oracle SQL  
-**Programming & Scripting:** SQL, Shell scripting  
-**Cloud Platforms:** Azure, AWS S3 (Scality)  
+**ETL & Data Integration:** Microsoft SSIS, Microsoft Fabric, Ab Initio, Snowflake, Databricks
+**Databases:** Microsoft SQL Server, Oracle SQL , T-SQL, KQL 
+**Programming & Scripting:** SQL, PowerShell scripting  
+**Cloud Platforms:** Azure, AWS S3 (Scality) , GCP
 **BI & Visualization:** Power BI, Qlik Sense, Tableau  
-**Job Scheduling:** Tivoli, Control-M, Crontab  
-**Collaboration:** Jira, Confluence, GitHub  
+**Job Scheduling:** Tivoli, Control-M, Crontab , Visual Cron 9 
+**Collaboration:** Jira, Confluence, GitHub , CI-CD
+**Data Modeling:** HLD/LLD, Confluence Documentation, Draw.io
 
 ---
 
 ### 📌 Featured Projects  
-- 📂 **ETL Automation Suite** – Automated regulatory reporting pipelines, reducing processing time by 70%  
+- 📂 **ETL Automation Suite** – Automated regulatory reporting pipelines, reducing processing time by 80% and efficiency gain 50%. 
 - 📊 **Real-Time Analytics Dashboard** – Qlik Sense dashboard with set analysis for instant decision-making  
 - ⚡ **SQL Performance Optimization** – Reduced query execution time by 60% for large-scale reporting  
 
